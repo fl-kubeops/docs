@@ -21,9 +21,9 @@ OneDrive folder (access restricted to team members).
 ## Repositories
 | Repo | Description | Access |
 |------|-------------|--------|
-| operator | Kubernetes operator (kopf + Python) | Private |
-| fl-clients | PySyft FL client implementation | Private |
-| pipeline | Kubeflow pipeline definitions | Private |
+| operator | Kubernetes operator (kopf + Python) | Public |
+| fl-clients | PySyft FL client implementation | Public |
+| pipeline | Kubeflow pipeline definitions | Public |
 | docs | This documentation | Public |
 
 ## Architecture Overview
